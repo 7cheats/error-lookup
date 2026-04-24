@@ -1,4 +1,3 @@
-content: |
   # 7Cheats Staff Error Lookup
 
   ## Client Issues
