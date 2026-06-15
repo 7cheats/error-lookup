@@ -25,7 +25,7 @@
 
   ---
 
-  ## R6 - DMA Issues
+  ## DMA Product Issues
 
   ### Unable to Connect to DMA
 
