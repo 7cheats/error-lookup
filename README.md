@@ -1,6 +1,6 @@
-  # 7Cheats Staff Error Lookup
+  # **7Cheats Staff Error Lookup**
 
-  ## Client Issues
+  ## **Client Issues**
 
   ### General Client Connection Issues
 
@@ -25,7 +25,7 @@
 
   ---
 
-  ## DMA Product Issues
+  ## **DMA Product Issues**
 
   ### Unable to Connect to DMA
 
@@ -34,6 +34,7 @@
     * ➤ Have them **cold boot**
     * ➤ Try a **different cable**
     * ➤ Try a **different PCIe slot**
+    * ➤ If nothing helps, then it's most likely a **Firmware issue**
 
   ---
 
@@ -58,6 +59,14 @@
   ### Authentication Failure
 
   * ➤ Have them use **Proton VPN**
+
+  ---
+
+  ### Auth Error 172
+
+  * ➤ Some Hardware has changed (99% iGPU)
+
+    * ➤ Have them **disable the integrated GPU**
 
   ---
 
