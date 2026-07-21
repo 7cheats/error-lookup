@@ -38,6 +38,14 @@
 
   ---
 
+  ### Properly Setup rDMA for 7c
+
+    * ➤ Download 7c to a specific Folder
+    * ➤ Rename Leechcore.dll to winusb.dll
+    * ➤ Open Game on Main PC 
+
+    * Once loaded into the R6 Menu Load the Cheat from the folder
+
   ### Failed to Find Required Library
 
   * Missing dependencies:
